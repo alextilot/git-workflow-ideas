@@ -40,6 +40,7 @@ This project is going to be used to assist me in leveling up my git workflow.
 
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Magic Git Commit Message With Ticket Number for Awesome Team](https://medium.com/julotech/magic-git-commit-message-with-ticket-number-for-awesome-team-a0c602c79d1)
+- [Create a global git commit hook](https://coderwall.com/p/jp7d5q/create-a-global-git-commit-hook)
 - [Naming conventions for Git Branches - a Cheatsheet](https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534)
 - [How to Naming Conventions for Git Branches](https://www.geeksforgeeks.org/how-to-naming-conventions-for-git-branches/)
 - [Is there any downside to commit messages containing the ticket number](https://softwareengineering.stackexchange.com/questions/308084/is-there-any-downside-to-commit-messages-containing-the-ticket-number)
